@@ -13,3 +13,8 @@ sudo apt install jupyter-notebook
 sudo apt remove jupyter-notebook
 
 sudo apt autoclean && sudo apt autoremove
+
+
+## Solution
+
+install -c anaconda jupyter
